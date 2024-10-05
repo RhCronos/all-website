@@ -1,0 +1,9 @@
+#nav-bar .nav-link:hover{
+	color:pink;
+	transition: .4s ease-in;
+	font-size: 37px;
+	
+}
+#nav-bar .active{
+		color:pink;
+	}
